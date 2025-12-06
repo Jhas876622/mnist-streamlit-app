@@ -52,7 +52,7 @@ The CNN model used in this project follows this architecture:
 * Dense hidden layer
 * Output layer with Softmax activation
 
-The model achieves high accuracy on MNIST and is optimized for fast inference.
+The model achieves high accuracy on MNIST and is optimised for fast inference.
 
 ---
 
